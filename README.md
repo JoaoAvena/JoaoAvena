@@ -1,7 +1,7 @@
 ## Hi! I am João Avena.
 
  <div> 
-<b>Young Developer | Brazilian | 21 Years Old</b>
+<b>Young Developer | Brazilian | 22 Years Old</b>
 <p>I have a solid background in Information Technology and Visual Communication, with ongoing studies in Web Development and Interface Design. As a passionate learner in the field of software development, I am continually enhancing my skills and exploring new technologies. I'm eager to break into the industry and open to job opportunities where I can contribute, grow, and make an impact.</p>
     
 </div>
